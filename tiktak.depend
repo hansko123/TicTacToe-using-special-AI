@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586020221 source:c:\users\youtube\desktop\project\tiktak\tiktak\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
